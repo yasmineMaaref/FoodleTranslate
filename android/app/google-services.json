@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461580002568",
+    "project_id": "traduction-d58fc",
+    "storage_bucket": "traduction-d58fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461580002568:android:7753af5fbc169c7c58b8bd",
+        "android_client_info": {
+          "package_name": "com.example.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461580002568-o1d307usd594677dosaupllsa03ogbi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBePBQBLPtZOwAIYvTZ3PVpTx-6CfJ6KzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461580002568-o1d307usd594677dosaupllsa03ogbi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
